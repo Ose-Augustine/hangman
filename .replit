@@ -1,0 +1,2 @@
+language = "ruby"
+run = "run = ruby "game_start_sequence.rb"
